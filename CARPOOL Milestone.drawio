@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T21:01:30.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="VqwrfnYa72RKQ91SAFf5" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T21:21:11.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="aYWsdiRqyplswAsawf7D" version="21.3.8" type="github">
   <diagram name="Page-1" id="Id1s_BIeK_hJf_YxdPQb">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,23 +25,35 @@
         <mxCell id="ccUa-iO1tZTZyTWDyoyD-7" value="CONDUCT USER RESEARCH AND GATHER REQUIREMENTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-8" value="CREATE USER PERSONAS AND DEFINE TARGET AUDIENCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-8" target="ccUa-iO1tZTZyTWDyoyD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-8" value="CREATE USER PERSONAS AND DEFINE TARGET AUDIENCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ccUa-iO1tZTZyTWDyoyD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-12" target="ccUa-iO1tZTZyTWDyoyD-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-12" value="CONDUCT COMPETITOR ANALYSIS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-12" value="CONDUCT COMPETITOR ANALYSIS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ccUa-iO1tZTZyTWDyoyD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-13" target="ccUa-iO1tZTZyTWDyoyD-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-13" value="UPDATE PROJECT GOALS AND OBJECTIVES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-13" value="UPDATE PROJECT GOALS AND OBJECTIVES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="840" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-15" value="UPDATE USER REQUIREMENTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-15" value="UPDATE USER REQUIREMENTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1000" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-18" value="Null" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-19" value="Null" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-20" value="4th - 11th June" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
