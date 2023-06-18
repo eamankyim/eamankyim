@@ -1,172 +1,172 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T22:23:53.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="Kdl8zJqr9chCJMgFmG8z" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-18T12:36:29.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cg1tD2Aa4VJU89rUZ2s7" version="21.4.0" type="github">
   <diagram name="Page-1" id="Id1s_BIeK_hJf_YxdPQb">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DISCOVERY PHASE - 2 Weeks&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DISCOVERY PHASE - 2 Weeks&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="1080" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="181" as="sourcePoint" />
             <mxPoint x="200" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-4" value="DEFINE PROJCET GOALS AND OBJECTIVE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-4" value="DEFINE PROJCET GOALS AND OBJECTIVE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="181" as="sourcePoint" />
             <mxPoint x="360" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-6" value="DEFINE USER REQUIRMENTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-6" value="DEFINE USER REQUIRMENTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="181" as="sourcePoint" />
             <mxPoint x="520" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-7" value="CONDUCT USER RESEARCH AND GATHER REQUIREMENTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-7" value="CONDUCT USER RESEARCH AND GATHER REQUIREMENTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="181" as="sourcePoint" />
             <mxPoint x="680" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-8" value="CREATE USER PERSONAS AND DEFINE TARGET AUDIENCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-8" value="CREATE USER PERSONAS AND DEFINE TARGET AUDIENCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="181" as="sourcePoint" />
             <mxPoint x="840" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-12" value="CONDUCT COMPETITOR ANALYSIS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-12" value="CONDUCT COMPETITOR ANALYSIS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="181" as="sourcePoint" />
             <mxPoint x="1000" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-13" value="UPDATE PROJECT GOALS AND OBJECTIVES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-13" value="UPDATE PROJECT GOALS AND OBJECTIVES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="840" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-15" value="UPDATE USER REQUIREMENTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-15" value="UPDATE USER REQUIREMENTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1000" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-18" value="21st - 23rd May" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-18" value="21st - 23rd May" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="211" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-19" value="23rd May" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-19" value="23rd May" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="211" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-20" value="4th - 11th June" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-20" value="4th - 11th June" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="211" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-21" value="11th June" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-21" value="11th June" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="211" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BRAND IDENTITY AND BRAND GUIDE DESIGN PHASE - 1 Week&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BRAND IDENTITY AND BRAND GUIDE DESIGN PHASE - 1 Week&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="40" y="330" width="1880" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-24" target="ccUa-iO1tZTZyTWDyoyD-26">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccUa-iO1tZTZyTWDyoyD-24" target="ccUa-iO1tZTZyTWDyoyD-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-24" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-24" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="40" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-26" target="ccUa-iO1tZTZyTWDyoyD-27">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccUa-iO1tZTZyTWDyoyD-26" target="ccUa-iO1tZTZyTWDyoyD-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-26" value=" Define the brand positioning, values, and target audience" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-26" value=" Define the brand positioning, values, and target audience" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="200" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-27" target="ccUa-iO1tZTZyTWDyoyD-30">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccUa-iO1tZTZyTWDyoyD-27" target="ccUa-iO1tZTZyTWDyoyD-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-27" value="  Analyze competitor branding and market trends." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-27" value="  Analyze competitor branding and market trends." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="360" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-30" target="ccUa-iO1tZTZyTWDyoyD-31">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccUa-iO1tZTZyTWDyoyD-30" target="ccUa-iO1tZTZyTWDyoyD-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-30" value="  Create the brand identity brief and brand guidelines" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-30" value="  Create the brand identity brief and brand guidelines" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="520" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-31" target="ccUa-iO1tZTZyTWDyoyD-32">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccUa-iO1tZTZyTWDyoyD-31" target="ccUa-iO1tZTZyTWDyoyD-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-31" value="  Develop the brand&#39;s visual identity elements," style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-31" value="  Develop the brand&#39;s visual identity elements," style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="680" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-32" target="ccUa-iO1tZTZyTWDyoyD-36">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccUa-iO1tZTZyTWDyoyD-32" target="ccUa-iO1tZTZyTWDyoyD-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-32" value="Define the brand&#39;s tone of voice and messaging strategy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-32" value="Define the brand&#39;s tone of voice and messaging strategy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="840" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-36" target="ccUa-iO1tZTZyTWDyoyD-37">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccUa-iO1tZTZyTWDyoyD-36" target="ccUa-iO1tZTZyTWDyoyD-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-36" value="  Explore various logo concepts and design options" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-36" value="  Explore various logo concepts and design options" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1000" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-37" target="ccUa-iO1tZTZyTWDyoyD-40">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccUa-iO1tZTZyTWDyoyD-37" target="ccUa-iO1tZTZyTWDyoyD-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-37" value="   Present initial logo designs for review and feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-37" value="   Present initial logo designs for review and feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1160" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-40" target="ccUa-iO1tZTZyTWDyoyD-42">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccUa-iO1tZTZyTWDyoyD-40" target="ccUa-iO1tZTZyTWDyoyD-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-40" value="Iterate and refine the chosen logo design based on feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-40" value="Iterate and refine the chosen logo design based on feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1320" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-42" target="ccUa-iO1tZTZyTWDyoyD-44">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccUa-iO1tZTZyTWDyoyD-42" target="ccUa-iO1tZTZyTWDyoyD-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-42" value="Present the complete brand identity design for review and feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-42" value="Present the complete brand identity design for review and feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1480" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-44" value="Incorporate any necessary revisions based on stakeholder &lt;br&gt;feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-44" value="Incorporate any necessary revisions based on stakeholder &lt;br&gt;feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1640" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-46" value="Incorporate any necessary revisions based on stakeholder &lt;br&gt;feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-46" value="Incorporate any necessary revisions based on stakeholder &lt;br&gt;feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1800" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;UX/UI DESIGN PHASE - 4 WEEKS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;UX/UI DESIGN PHASE - 4 WEEKS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="40" y="550" width="1880" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccUa-iO1tZTZyTWDyoyD-49" target="ccUa-iO1tZTZyTWDyoyD-50">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccUa-iO1tZTZyTWDyoyD-49" target="ccUa-iO1tZTZyTWDyoyD-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-49" value="Develop information architecture and user flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-49" value="Develop information architecture and user flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="40" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-50" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-50" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="200" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-51" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-51" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="360" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-52" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-52" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="520" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-53" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-53" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="680" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccUa-iO1tZTZyTWDyoyD-54" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ccUa-iO1tZTZyTWDyoyD-54" value="Conduct brand research and gather requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="840" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
